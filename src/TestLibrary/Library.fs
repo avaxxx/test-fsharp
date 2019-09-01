@@ -9,4 +9,4 @@ module TimeSpanStyles =
 
     [<Fact>]
     let ``My test 2`` () =
-        Assert.True(true    
+        Assert.True(true) 
